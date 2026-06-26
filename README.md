@@ -1,7 +1,5 @@
-# Raspberry_pi proj1
-# ⏰ Raspberry Pi Smart Alarm with RGB LED & Music Sync
 
-## 📌 Overview
+#  Raspberry Pi Smart Alarm with RGB LED & Music Sync:push_button.py
 This project is a Raspberry Pi-based smart alarm system that:
 - Triggers on a button press
 - Uses a DS1307 RTC to log trigger time
@@ -59,7 +57,7 @@ sudo raspi-config
 run:
 ```
 source myenv/bin/activate
-python alarm_project.py
+python push_button.py
 ```
 
 Amrutha M
